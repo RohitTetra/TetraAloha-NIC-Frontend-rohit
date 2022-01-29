@@ -1,0 +1,74 @@
+body {
+	background: rgba(0, 0, 0, 0.1);
+}
+
+.header {
+	background: linear-gradient(91.04deg, #239B56 0%, #207AD0 100%);
+	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+}
+
+.top-txt {
+	padding: 7px 0px;
+	//   margin-left: 3%;
+	margin-left: 49px;
+}
+
+.top-hdr {
+	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+}
+
+.logo1 {
+	width: 64px;
+	height: 101px;
+}
+
+.logo2 {
+	width: 170px;
+	height: 44px;
+	filter: drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.25));
+	margin-top: 8%;
+	margin-left: 6%;
+}
+
+a {
+	text-decoration: none;
+}
+
+.sidebar {
+	background: #FFFFFF;
+}
+
+.sidebar .item {
+	padding: 4%;
+	margin: 0px 5px 0px 15px;
+	border-bottom: 1px solid #ACACAC;
+	;
+}
+
+.sidebar .item img {
+	margin-top: 17%;
+}
+
+.sidebar .item a {
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.user-img {
+	width: 42px;
+	height: 42px;
+	border-radius: 50%;
+}
+
+.user-name {
+	margin-top: 13%;
+}
+
+.user-icon {
+	margin-top: 100%;
+}
+
+.pad-header {
+	padding: 10px 0px;
+	margin: 0px;
+}
